@@ -1,3 +1,7 @@
 Hola soy alejandro Diaz, respondan
+<<<<<<< HEAD
 
 Hola soy Javier Roig, he respondido
+=======
+Adios
+>>>>>>> main

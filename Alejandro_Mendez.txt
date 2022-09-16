@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Holaaaa y ADIOS
 
 ADIOS y holaaaa
 Javier Roig
+=======
+Holaaaa y ADIOS
+Hola caracola
+>>>>>>> main
